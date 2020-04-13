@@ -1,0 +1,8 @@
+flask>=0.11
+bson
+pymongo==3.7.2
+requests
+pyjwt
+oauth2client
+httplib2
+apiclient
